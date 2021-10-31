@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.carousel-item img{
+    width: 100%;
+    position: absolute;
+    object-fit:cover;
+    top: 0;
+    left: 0;
+    min-height: 500px;
+}
+
+.carousel .carousel-item {
+    height: 500px;
+  }
+  
+  .bg-light {
+    background-color: #aaacae !important;
+}
+  
+/* Login Form CSS*/
+  
